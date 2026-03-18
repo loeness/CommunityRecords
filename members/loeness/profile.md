@@ -40,7 +40,7 @@ I am currently focused on establishing a robust local and remote development env
 ## Contact
 
 - **GitHub**: [loeness](https://github.com/loeness)
-- **LinkedIn**: [Ethan Li (Li Zitao)](https://www.linkedin.com/in/ethan-li-zitao)
+- **LinkedIn**: [Ethan Li (Li Zitao)](https://www.linkedin.com/in/ethan-li-2411a03b8/)
 
 ---
 
